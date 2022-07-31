@@ -1,0 +1,44 @@
+div{
+    font-family:Helvetica;
+    background-color: #e14e4e;
+    color: #b4abf0;
+    font-size: 35px;
+    padding:10px;
+}
+#big_div
+{
+    display: flex;
+    justify-content: space-around;
+}      
+div img{
+    height:350px;
+    width:650px;
+    
+}
+#project{
+    background-color: #4444c6;
+justify-content: space-around;
+}
+#big_div img{
+    height:200px;
+    width:200px;
+}
+#project{
+    text-align:center;
+}
+.item:hover{
+    background-color: gray;
+    opacity: 0.5;
+}
+#dogs{
+    text-align:center;
+    color:black
+}
+#dogs img{
+    height:500px;
+    width: 500px;
+}
+#dogs{
+    background-color: #22cc6c;
+justify-content: space-around;
+}
